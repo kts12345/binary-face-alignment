@@ -1,1 +1,2 @@
-# bnn.torch
+#bnncpu_forward_only
+ 
